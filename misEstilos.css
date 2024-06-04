@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    border: 2px;
+    padding: 2px;
+}
+
+caption{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+th, td {
+    padding: 30px;
+    text-align: left;
+    border-radius: 40px;
+    
+  }
+  
+  thead th {
+    text-align: center;
+    background-color: #d9eded
+  }
+  
+
+  tbody td {
+    background-color: #d8b1f9;
+  }
+  
+  tbody td:hover {
+    background-color: #f5eb94;
+  }
